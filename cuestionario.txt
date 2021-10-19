@@ -3,7 +3,7 @@ Una red que conecta a diferentes usuarios y medios de modo que la información l
 2.- Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 El codigo binario es por lo que se rige todo, pero, hay diferentes formas de mandarlo: El electrico, que es con cables de "ethernet" como los de tu casa o de tu escuela, lo malo de este es que se pierde electricidad; tambien esta la luz, estas se mandan usando cables de fibras opticas, esto es un "hilo" de vidrio diseñado para reflejar luz, es muy rápido y no se pierde señal, pero lo malo es que es costoso y no es facil de trabajar con el, por eso por lo general vas a encontrar cobre; la tercera forma de mandar información es por ondas de radio, esto es sin cables, sin necesitar cosas físicas, las maquinas mandan la información y después la maquina que lo recibe lo decodifica, entonces ya no necesitamos cables, pero lo mal es que no puede viajar mucha distancia, porque se pierden las ondas, entonces mandamos la información (bits) a un router inalambrico, o un modem o algo haci, después se vuelven se redirigen a un cable y se manda.
 3.- ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-
+El internet se organiza
 4.- Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 
 5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
