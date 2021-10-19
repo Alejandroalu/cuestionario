@@ -1,5 +1,5 @@
 1.- En tus palabras, ¿Qué es internet?
-
+Una red que conecta a diferentes usuarios y medios de modo que la información le llegue a todos.
 2.- Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 
 3.- ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
