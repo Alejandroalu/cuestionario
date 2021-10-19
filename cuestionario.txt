@@ -13,3 +13,4 @@ Que, cuando vemos el HTTPS en el link o el candado es que esta seguro, y que usa
 7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 Que los viruses son como viruses reales, se instalan en tu dispositivo y aveces se reproducen de ahí, que la ayoría de las veces que somos haqueados es por error humano, que hay que checar si es confiable o no la página o el correo que nos llego.
 8.- ¿Cómo funciona la búsqueda de google?
+Tu navegador ve desde antes el internet, el internet se conecta a si mismo pot "hiperlinks", un programa llamado spider ve de antemano todos los resultados y todos los lugares a donde te puede llevar, todos los navegadores tienedn algoritmos que ven para ver cuales paginas enseñarte, como la de Google "Page rank", la idea es que si muchas pagina creen que una pagina es ingteresante entonces esa debe ser la pagina que buscas, 
