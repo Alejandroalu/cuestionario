@@ -11,5 +11,5 @@ HTTP es cuando tu computadora le pide a un servidor ir a una pagina, basicamente
 6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 Que, cuando vemos el HTTPS en el link o el candado es que esta seguro, y que usamos un tipo de sístema para estar seguros, esto es que hay una llave publica para accesar nuestra caja de correo y nosotros tenemos una llave personal para abrir esa llave de correos, y que incriptamos las cosas para que no nos vean usando un tipo de cifra que invento Julio Cesar, pero este ha sido mejorado para que la "llave" sea un numro mas largo y hací mas dificil de decodificar por todas las posibilidades que hay.
 7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-
+Que los viruses son como viruses reales, se instalan en tu dispositivo y aveces se reproducen de ahí, que la ayoría de las veces que somos haqueados es por error humano, que hay que checar si es confiable o no la página o el correo que nos llego.
 8.- ¿Cómo funciona la búsqueda de google?
