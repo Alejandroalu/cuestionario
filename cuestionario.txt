@@ -9,7 +9,7 @@ Va en un "paquete de información", viaja evitando "tráfico", cuando hay muchas
 5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP es cuando tu computadora le pide a un servidor ir a una pagina, basicamente dicen: GET "nobre del documento que quieres, eso le dice al servidor de la págino que quieres el código HTML, el HTML es lo que usas para decirle a un buscador como hacer una pagina verse. Aveces en vez de pedir información la das, como cuando ingresas a una pagina, esto se lo manda al servidor usando un HTTP post request, para que una pagina recuerde quiern eres, usa, un poco de información cookie, es un modo de identificarte, tu navegador se guarda esa información para la siguiente vez que entres o cuando refrescas la pagina.
 6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-
+Que, cuando vemos el HTTPS en el link o el candado es que esta seguro, y que usamos un tipo de sístema para estar seguros, esto es que hay una llave publica para accesar nuestra caja de correo y nosotros tenemos una llave personal para abrir esa llave de correos, y que incriptamos las cosas para que no nos vean usando un tipo de cifra que invento Julio Cesar, pero este ha sido mejorado para que la "llave" sea un numro mas largo y hací mas dificil de decodificar por todas las posibilidades que hay.
 7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 
 8.- ¿Cómo funciona la búsqueda de google?
